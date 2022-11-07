@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(243, 219, 6);
+}
+
+.heading {
+    text-align: center;
+}
+
+.kartulivorm-heading {
+    color:blue;
+    font-family: 'Satisfy', cursive;
+    font-size: 5rem;
+    text-decoration: underline;
+}
+
+img {
+    width: 450px;
+    margin: 20px auto;
+}
+
+.img {
+    text-align: center;
+}
+
+.ingredients {
+    color: gray;
+    border: 2px solid blue;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ingredients-heading {
+    color:blue;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.ingredients-table {
+    border: 2px solid blue;
+    margin: 10px auto;
+    width: 40%;
+}
+
+.heading2 {
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+.instructions {
+    color: gray;
+    border: 2px solid blue;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions-heading {
+    color:blue;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.instructions ol {
+    border: 2px solid blue;
+    margin: 10px auto;
+    width: 80%;
+}
+
+.hr {
+    margin: 10px auto;
+    width: 51%;
+}
+
+.viide {
+    color:blue;
+    font-family: 'Satisfy', cursive;
+    font-size: 1rem;
+    margin: 20px auto;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.footer {
+    text-align: center;
+    color: brown;
+    margin: 10px auto;
+}
